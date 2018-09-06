@@ -1,8 +1,5 @@
 # Auruxcoin
 
-<p align="center">
-    <a href="https://github.com/Auruxcoin/blockchain/commits/dev"><img alt="pipeline status" src="https://gitlab.com/auruxcoin/blockchain/badges/dev/pipeline.svg" /></a>
-</p>
 
 Copyright (c) 2018 The Auruxcoin Project.   
 Portions Copyright (c) 2014-2018 The Monero Project.   
