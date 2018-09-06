@@ -23,7 +23,7 @@ auruxcoin is a private cryptocurrency based on Monero. Over the course of the co
 
 More information on the project can be found on the website and in the whitepaper.
 
-auruxcoin is an open source project, and we encourage contributions from anyone with something to offer. For more information on contributing, please contact team@auruxcoin.network
+auruxcoin is an open source project, and we encourage contributions from anyone with something to offer. For more information on contributing, please contact support@auruxcoin.io
 
 ## Compiling auruxcoin from source
 
